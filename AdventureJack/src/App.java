@@ -272,6 +272,9 @@ public class App {
                     System.out.println("| 'z' -> add $500        |");
                     System.out.println("| 'i' -> add win         |");
                     System.out.println("|                        |");
+                    System.out.println("| use inputs sparringly  |");
+                    System.out.println("| if blank send input    |");
+                    System.out.println("|                        |");
                     System.out.println("| Ace = 11 unless        |");
                     System.out.println("| over 21, if > 21    ↲  |");
                     System.out.println("| Ace = 1           ↲    |");
