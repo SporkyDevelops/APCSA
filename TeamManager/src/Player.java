@@ -26,6 +26,7 @@ public class Player {
     public void setPPG(double ppg){ this.ppg = ppg; }
     public void setSigned(boolean signed){ this.signed = signed; }
     
+    //workouts (make it less typing)
     public void setWorkoutDuration(int duration){ workout.setDuration(duration); }
     public void setWorkoutIntensity(String intensity){ workout.setIntensity(intensity); }
 

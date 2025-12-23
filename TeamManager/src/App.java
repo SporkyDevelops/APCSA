@@ -20,7 +20,6 @@ public class App {
         boolean running = true;
         String[] menu = {"List Players", "View Report", "Edit Player"};
 
-
         List<Player> team = readJSON();
         
         int mIndex = 0;
