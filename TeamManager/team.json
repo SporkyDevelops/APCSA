@@ -1,22 +1,123 @@
 [
   {
-    "name": "LeBron James",
-    "position": "Forward",
-    "pointsPerGame": 0,
+    "name": "Jalen Brunson",
+    "position": "Guard",
+    "ppg": 0.0,
+    "signed": true,
     "workout": {
-      "focus": "High Intensity Cardio",
-      "durationMinutes": 90,
+      "focus": "Pick-and-Roll Navigation",
+      "duration": 0,
       "intensity": "High"
     }
   },
   {
-    "name": "Stephen Curry",
-    "position": "Guard",
-    "pointsPerGame": 0,
+    "name": "Karl-Anthony Towns",
+    "position": "Center",
+    "ppg": 0.0,
+    "signed": true,
     "workout": {
-      "focus": "3-Point Drills",
-      "durationMinutes": 60,
+      "focus": "Post-Up Efficiency \u0026 Range",
+      "duration": 0,
+      "intensity": "High"
+    }
+  },
+  {
+    "name": "Mikal Bridges",
+    "position": "Forward",
+    "ppg": 0.0,
+    "signed": true,
+    "workout": {
+      "focus": "Lockdown Perimeter Defense",
+      "duration": 0,
+      "intensity": "Extreme"
+    }
+  },
+  {
+    "name": "OG Anunoby",
+    "position": "Forward",
+    "ppg": 0.0,
+    "signed": true,
+    "workout": {
+      "focus": "Corner Shooting \u0026 Help Defense",
+      "duration": 0,
+      "intensity": "High"
+    }
+  },
+  {
+    "name": "Josh Hart",
+    "position": "Guard/Forward",
+    "ppg": 0.0,
+    "signed": true,
+    "workout": {
+      "focus": "Endurance \u0026 Fastbreak Rebounding",
+      "duration": 0,
+      "intensity": "Extreme"
+    }
+  },
+  {
+    "name": "Miles McBride",
+    "position": "Guard",
+    "ppg": 0.0,
+    "signed": true,
+    "workout": {
+      "focus": "On-Ball Pressure \u0026 3PT Reps",
+      "duration": 0,
+      "intensity": "High"
+    }
+  },
+  {
+    "name": "Jordan Clarkson",
+    "position": "Guard",
+    "ppg": 0.0,
+    "signed": true,
+    "workout": {
+      "focus": "Bench Scoring \u0026 ISO Moves",
+      "duration": 0,
       "intensity": "Medium"
+    }
+  },
+  {
+    "name": "Landry Shamet",
+    "position": "Guard",
+    "ppg": 0.0,
+    "signed": true,
+    "workout": {
+      "focus": "Off-Screen Shooting",
+      "duration": 0,
+      "intensity": "Medium"
+    }
+  },
+  {
+    "name": "Mitchell Robinson",
+    "position": "Center",
+    "ppg": 0.0,
+    "signed": true,
+    "workout": {
+      "focus": "Vertical Spacing \u0026 Shot Blocking",
+      "duration": 0,
+      "intensity": "High"
+    }
+  },
+  {
+    "name": "Tyler Kolek",
+    "position": "Guard",
+    "ppg": 0.0,
+    "signed": true,
+    "workout": {
+      "focus": "Playmaking \u0026 Floor Vision",
+      "duration": 0,
+      "intensity": "Medium"
+    }
+  },
+  {
+    "name": "Guerschon Yabusele",
+    "position": "Forward/Center",
+    "ppg": 0.0,
+    "signed": true,
+    "workout": {
+      "focus": "Physicality \u0026 Small-Ball Defense",
+      "duration": 0,
+      "intensity": "High"
     }
   }
 ]
