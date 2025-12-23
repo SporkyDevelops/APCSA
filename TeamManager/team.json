@@ -1,0 +1,22 @@
+[
+  {
+    "name": "LeBron James",
+    "position": "Forward",
+    "pointsPerGame": 0,
+    "workout": {
+      "focus": "High Intensity Cardio",
+      "durationMinutes": 90,
+      "intensity": "High"
+    }
+  },
+  {
+    "name": "Stephen Curry",
+    "position": "Guard",
+    "pointsPerGame": 0,
+    "workout": {
+      "focus": "3-Point Drills",
+      "durationMinutes": 60,
+      "intensity": "Medium"
+    }
+  }
+]
